@@ -1,0 +1,7 @@
+name,file,group
+UHRR1,https://stratus-documentation-us-east-1-public.s3.amazonaws.com/Fastqs/RNASeq/mRNA-UHRR-1_S9_L001_R1_001.fastq.gz,UHRR
+UHRR2,https://stratus-documentation-us-east-1-public.s3.amazonaws.com/Fastqs/RNASeq/mRNA-UHRR-2_S10_L001_R1_001.fastq.gz,UHRR
+UHRR3,https://stratus-documentation-us-east-1-public.s3.amazonaws.com/Fastqs/RNASeq/mRNA-UHRR-3_S11_L001_R1_001.fastq.gz,UHRR
+Liver1,https://stratus-documentation-us-east-1-public.s3.amazonaws.com/Fastqs/RNASeq/mRNA-Liver-1_S1_L001_R1_001.fastq.gz,Liver
+Liver2,https://stratus-documentation-us-east-1-public.s3.amazonaws.com/Fastqs/RNASeq/mRNA-Liver-2_S2_L001_R1_001.fastq.gz,Liver
+Liver3,https://stratus-documentation-us-east-1-public.s3.amazonaws.com/Fastqs/RNASeq/mRNA-Liver-3_S3_L001_R1_001.fastq.gz,Liver
